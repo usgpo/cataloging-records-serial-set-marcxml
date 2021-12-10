@@ -9,3 +9,5 @@ The records are discoverable in the CGP via the [Congressional Serial Set Catalo
 The `volume_numbers_serial_set.csv` file lists the Serial Set volume numbers represented in the records.
 
 We ask that you please submit your feedback and questions about the records via [askGPO](https://ask.gpo.gov/s/) in the Cataloging/Metadata (Policy and Records) category.
+
+To download the files, use the `Code` button in the right-hand section of this page and select `Download ZIP.` The ZIP file contains all of the files in the repository.
