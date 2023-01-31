@@ -19,3 +19,4 @@ LSCM has other GitHub repositories. Please visit each repository for more inform
 - [cataloging-records-all-cgp-marcxml](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
 - [cataloging-records-all-cgp-utf8](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
 - [cataloging-records-all-serial-set-utf8](https://github.com/usgpo/cataloging-records-serial-set-utf8)
+- [cataloging-records collections](https://github.com/usgpo/cataloging-records)
