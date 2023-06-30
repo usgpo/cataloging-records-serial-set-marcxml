@@ -6,10 +6,10 @@ This repository contains three files:
 
 - A cumulative file of all project records in the CGP
   - 30,209 records (30,007 monographs | 202 serials)
-  - 68,563 KB
+  - 8,600 KB (Zipped)
 - A file of the most recently added CGP records
   - 16,498 records (16,402 monographs | 96 serials)
-  - 33,514 KB
+  - 4,016 KB (Zipped)
 - A cumulative list of the volumes represented in the CGP records
   - Please note: this list does not include the volume numbers of serial issues
 
