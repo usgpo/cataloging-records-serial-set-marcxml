@@ -1,4 +1,6 @@
-# cataloging-records-serial-set-marcxml
+# U.S. Congressional Serial Set Records (MARC XML)
+
+## General Information
 
 As part of GPO’s partnership with the Law Library of Congress to digitize the United States Congressional Serial Set and make the volumes available in GovInfo, Library Services and Content Management (LSCM) posts the MARC records of the [U.S. Catalog of Government Publications (CGP)](https://catalog.gpo.gov/F) in this repository. For more information about the Serial Set Project, please visit the [Digitizing the United States Congressional Serial Set](https://fdlp.gov/project-list/digitizing-the-united-states-congressional-serial-set) page on FDLP.gov.
 
@@ -20,7 +22,7 @@ The records are discoverable in the CGP via the [Congressional Serial Set Catalo
 We ask that you please submit your feedback and questions about the records via [askGPO](https://ask.gpo.gov/s/) in the Cataloging/Metadata (Policy and Records) category.
 
 To download the files, use the `Code` button in the right-hand section of this page and select `Download ZIP.` The ZIP file contains all of the files in the repository.
-
+------------
 ## Other LSCM Repositories
 
 LSCM develops and maintains other repositories:
@@ -54,3 +56,7 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
   - ![Image shows pointer to "Browse the repository at this point in the history" link](/images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
+
+## Feedback and Questions
+
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
