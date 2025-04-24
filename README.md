@@ -18,6 +18,7 @@ This repository contains three files:
 The records are also available in MARC UTF-8 in the [cataloging-records-serial-set-utf8](https://github.com/usgpo/cataloging-records-serial-set-utf8) repository. LSCM staff members analyzed and reviewed the records as a whole and batch processed global updates and enhancements. The publications range in date from 1817 (15th Congress) to 1984 (98th Congress). All records have Superintendent of Documents classification numbers for the Congressional publication series and Serial Set series and OCLC numbers. The records do not contain Federal Depository Library Program item numbers.
 
 The records are discoverable in the CGP via the [Congressional Serial Set Catalog](https://purl.fdlp.gov/GPO/LPS93629) and the standard search modes. In the [expert search mode](https://purl.fdlp.gov/GPO/LPS93626), you can use a local field search to retrieve all of the Serial Set records and combine that search with other metadata elements: [wlts=SERIALSET?](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dserialset%3F&x=50&y=13)
+
 ------------
 ## How to Use the Repository Resources
 
