@@ -20,8 +20,17 @@ The records are also available in MARC UTF-8 in the [cataloging-records-serial-s
 The records are discoverable in the CGP via the [Congressional Serial Set Catalog](https://purl.fdlp.gov/GPO/LPS93629) and the standard search modes. In the [expert search mode](https://purl.fdlp.gov/GPO/LPS93626), you can use a local field search to retrieve all of the Serial Set records and combine that search with other metadata elements: [wlts=SERIALSET?](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dserialset%3F&x=50&y=13)
 
 We ask that you please submit your feedback and questions about the records via [askGPO](https://ask.gpo.gov/s/) in the Cataloging/Metadata (Policy and Records) category.
+------------
+## How to Use the Repository Resources
 
-To download the files, use the `Code` button in the right-hand section of this page and select `Download ZIP.` The ZIP file contains all of the files in the repository.
+Downloading Instructions
+When downloading files from the repository, all files in the repository are included in the downloaded zip file.
+
+In the top right-hand section of this page, click on the “Code” button.
+Click on “Download ZIP.”
+A ZIP file with all files in the repository will be downloaded.
+Unzip the file with a zip utility.
+The zip file can also be downloaded directly at this link:
 ------------
 ## Other LSCM Repositories
 
