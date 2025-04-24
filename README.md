@@ -30,7 +30,7 @@ In the top right-hand section of this page, click on the “Code” button.
 Click on “Download ZIP.”
 A ZIP file with all files in the repository will be downloaded.
 Unzip the file with a zip utility.
-The zip file can also be downloaded directly at this link:
+The zip file can also be downloaded directly at this link: https://github.com/usgpo/cataloging-records-serial-set-marcxml/archive/refs/heads/main.zip
 ------------
 ## Other LSCM Repositories
 
