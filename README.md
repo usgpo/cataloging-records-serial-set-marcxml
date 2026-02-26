@@ -2,7 +2,7 @@
 
 ## General Information
 
-As part of GPO’s partnership with the Law Library of Congress to digitize the United States Congressional Serial Set and make the volumes available in GovInfo, Library Services and Content Management (LSCM) posts the MARC records of the [U.S. Catalog of Government Publications (CGP)](https://catalog.gpo.gov/F) in this repository. For more information about the Serial Set Project, please visit the [Digitizing the United States Congressional Serial Set](https://fdlp.gov/project-list/digitizing-the-united-states-congressional-serial-set) page on FDLP.gov.
+..As part of GPO’s partnership with the Law Library of Congress to digitize the United States Congressional Serial Set and make the volumes available in GovInfo, Library Services and Content Management (LSCM) posts the MARC records of the [U.S. Catalog of Government Publications (CGP)](https://catalog.gpo.gov/F) in this repository. For more information about the Serial Set Project, please visit the [Digitizing the United States Congressional Serial Set](https://fdlp.gov/project-list/digitizing-the-united-states-congressional-serial-set) page on FDLP.gov.
 
 This repository contains three files:
 
